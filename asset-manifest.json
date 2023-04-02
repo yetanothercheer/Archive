@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Archive/static/css/main.94982dc4.chunk.css",
+    "main.js": "/Archive/static/js/main.b4d3331a.chunk.js",
+    "main.js.map": "/Archive/static/js/main.b4d3331a.chunk.js.map",
+    "runtime-main.js": "/Archive/static/js/runtime-main.6bcec84a.js",
+    "runtime-main.js.map": "/Archive/static/js/runtime-main.6bcec84a.js.map",
+    "static/js/2.0eaa1080.chunk.js": "/Archive/static/js/2.0eaa1080.chunk.js",
+    "static/js/2.0eaa1080.chunk.js.map": "/Archive/static/js/2.0eaa1080.chunk.js.map",
+    "index.html": "/Archive/index.html",
+    "static/css/main.94982dc4.chunk.css.map": "/Archive/static/css/main.94982dc4.chunk.css.map",
+    "static/js/2.0eaa1080.chunk.js.LICENSE.txt": "/Archive/static/js/2.0eaa1080.chunk.js.LICENSE.txt",
+    "static/media/work-in-progress-woman_at_work-o-f-daisy.4f77003a.png": "/Archive/static/media/work-in-progress-woman_at_work-o-f-daisy.4f77003a.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6bcec84a.js",
+    "static/js/2.0eaa1080.chunk.js",
+    "static/css/main.94982dc4.chunk.css",
+    "static/js/main.b4d3331a.chunk.js"
+  ]
+}
